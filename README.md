@@ -6,7 +6,7 @@ This script can automate the deletion of tokens.json file. it only works on term
 
 ## Features
 
-- **Auto Delete tokens**
+- **Auto Delete tokens every 10 minute**
 
 ## Requirements
 
