@@ -1,4 +1,4 @@
-# MOONBIX TELEGRAM BOT BY BINANCE TELEGRAM
+# MOONBIX TELEGRAM BOT BY BINANCE TELEGRAM CRUSH FIX (TERMUX ONLY)
 
 This script can automate the deletion of tokens.json file. it only works on termux android
 
