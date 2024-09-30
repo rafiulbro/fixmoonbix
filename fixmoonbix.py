@@ -18,7 +18,7 @@ while True:
         print(f"\nAlready Deleted")
     
     # Countdown for 28 minutes (28 * 60 seconds)
-    total_seconds = 28 * 60
+    total_seconds = 10 * 60
     while total_seconds > 0:
         minutes, seconds = divmod(total_seconds, 60)
         print(f"Next deletion in {minutes:02d}:{seconds:02d} minutes", end="\r")
