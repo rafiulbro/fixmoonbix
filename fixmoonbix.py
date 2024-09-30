@@ -2,7 +2,7 @@ import os
 import time
 
 # Specify the file path you want to delete
-file_path = "/data/data/com.termux/files/home/Moonbix/tokens.json"
+file_path = "/data/data/com.termux/files/home/moonbix-bot/tokens.json"
 
 while True:
     # Initial 5-second countdown before deleting the file
